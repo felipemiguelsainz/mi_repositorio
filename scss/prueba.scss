@@ -1,0 +1,97 @@
+.body {
+  background-color: #606060; }
+
+.nav {
+  background-color: #5A5A5A;
+  color: #FFFFFF; }
+
+.nav__title {
+  text-decoration: none;
+  color: #B9B9B9; }
+
+.nav__item1 {
+  text-decoration: none;
+  color: #B9B9B9; }
+
+.nav__item2 {
+  text-decoration: none;
+  color: #B9B9B9; }
+
+.nav__item3 {
+  text-decoration: none;
+  color: #B9B9B9; }
+
+.txt {
+  text-align: center; }
+
+.txt__qsomos {
+  font-size: 20px;
+  color: #B9B9B9; }
+
+.txt__parrafo {
+  font-size: 20px;
+  color: #B9B9B9; }
+
+.txt__final {
+  font-size: 20px;
+  color: #B9B9B9; }
+
+.footer__{
+  display: flex;
+  margin-top: 50px;
+  padding-bottom: 40px; }
+
+.footer__titulo{
+  font-size: 16px;
+  font-style: italic;
+  color: #5F5F5F;
+}
+
+.footer__texto {
+  color: #C5C5C5;
+  font-size: 20px;
+  color: #DCDCDC;
+  text-decoration: none; }
+
+.footer__lista__attalcliente{
+  padding-top: 10px;
+  font-size: 14px;
+}
+.footer__lista__mapa{
+  list-style: none;
+  font-size: 14px;
+  padding-top: 10px;
+}
+.white-tog{
+	color: #FFFFFF;
+}
+.fieldset__{
+  border: solid 2px #B6B6B6;
+}
+.fieldset__datos{
+	text-align: center;
+}
+.fieldset__legend{
+	text-align: center;
+}
+.fieldset__suscripcion{
+	text-align: center;
+}
+.fieldset--{
+  text-align: center;
+  border: solid 3px #C3C3C3
+}
+.txt__big{
+  text-align: center;
+}
+footer{
+  a:hover{
+    color: #5F5FFB;
+  }
+}
+footer{
+  a{
+    text-decoration: none;
+    color: #000000;
+  }
+}
