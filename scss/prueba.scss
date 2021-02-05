@@ -1,0 +1,88 @@
+.body {
+  background-color: #606060; }
+.txt__ {
+  text-align: center; }
+nav{
+  display: flex;
+  div{
+    justify-content: center;
+  }
+}
+.txt__qsomos {
+  font-size: 25px;
+  color: #303030; }
+
+.txt__parrafo {
+  font-size: 30px;
+  color: #B9B9B9; 
+  padding-left: 300px;
+  padding-right: 300px;}
+
+.txt__final {
+  font-size: 15px;
+  color: #303030; }
+
+.footer__{
+  display: flex;
+  margin-top: 50px;
+  padding-bottom: 40px; }
+
+.footer__titulo{
+  font-size: 16px;
+  font-style: italic;
+  color: #5F5F5F;
+}
+
+.footer__texto {
+  color: #C5C5C5;
+  font-size: 20px;
+  color: #DCDCDC;
+  text-decoration: none; }
+
+.footer__lista__attalcliente{
+  padding-top: 10px;
+  font-size: 14px;
+}
+.footer__lista__mapa{
+  list-style: none;
+  font-size: 14px;
+  padding-top: 10px;
+}
+.white-tog{
+	color: #FFFFFF;
+}
+.fieldset__{
+  border: solid 2px #B6B6B6;
+}
+.fieldset__datos{
+	text-align: center;
+}
+.fieldset__legend{
+	text-align: center;
+}
+.fieldset__suscripcion{
+	text-align: center;
+}
+.fieldset--{
+  text-align: center;
+  border: solid 3px #C3C3C3
+}
+.txt__big{
+  text-align: center;
+}
+footer{
+  a:hover{
+    color: #5F5FFB;
+  }
+}
+footer{
+  a{
+    text-decoration: none;
+    color: #000000;
+  }
+}
+.navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+  }
