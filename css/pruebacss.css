@@ -1,6 +1,7 @@
 .body {
   background-color: #606060; }
 
+<<<<<<< HEAD
 .nav {
   background-color: #5A5A5A;
   color: #FFFFFF; }
@@ -35,6 +36,29 @@
 .txt__final {
   font-size: 20px;
   color: #B9B9B9; }
+=======
+.txt__ {
+  text-align: center; }
+
+nav {
+  display: flex; }
+  nav div {
+    justify-content: center; }
+
+.txt__qsomos {
+  font-size: 25px;
+  color: #303030; }
+
+.txt__parrafo {
+  font-size: 30px;
+  color: #B9B9B9;
+  padding-left: 300px;
+  padding-right: 300px; }
+
+.txt__final {
+  font-size: 15px;
+  color: #303030; }
+>>>>>>> branch_1
 
 .footer__ {
   display: flex;
@@ -89,3 +113,11 @@ footer a:hover {
 footer a {
   text-decoration: none;
   color: #000000; }
+<<<<<<< HEAD
+=======
+
+.navbar-center {
+  position: absolute;
+  left: 50%;
+  transform: translatex(-50%); }
+>>>>>>> branch_1
