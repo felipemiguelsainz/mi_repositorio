@@ -50,10 +50,10 @@ nav{
   color: #303030; }
 
 .txt__parrafo {
-  font-size: 30px;
-  color: #B9B9B9; 
-  padding-left: 300px;
-  padding-right: 300px;}
+text-align: center;
+padding: 40px;
+font-size: 40px;
+}
 
 .txt__final {
   font-size: 15px;
@@ -90,20 +90,17 @@ nav{
 	color: #FFFFFF;
 }
 .fieldset__{
-  border: solid 2px #B6B6B6;
-}
-.fieldset__datos{
-	text-align: center;
+  background-color: #989797;
+
 }
 .fieldset__legend{
-	text-align: center;
+	text-align: left;
 }
 .fieldset__suscripcion{
 	text-align: center;
 }
-.fieldset--{
-  text-align: center;
-  border: solid 3px #C3C3C3
+.fieldset__button{
+  float: left;
 }
 .txt__big{
   text-align: center;
